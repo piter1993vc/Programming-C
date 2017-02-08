@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1446014497 source:e:\programowanie\c\projekty\cwiczenie9rozdzial11prata\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

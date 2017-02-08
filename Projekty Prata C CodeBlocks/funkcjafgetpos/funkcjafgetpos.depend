@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1446811805 source:e:\programowanie\c\projekty\funkcjafgetpos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+

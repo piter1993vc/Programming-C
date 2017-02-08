@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1450016176 source:e:\programowanie\c\projekty\listing16.6-8prata\main.c
+	<stdio.h>
+	<stdlib.h>
+	"dane.h"
+
+1450017689 e:\programowanie\c\projekty\listing16.6-8prata\dane.h
+

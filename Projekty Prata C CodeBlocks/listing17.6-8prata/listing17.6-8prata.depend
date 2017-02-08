@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1450460897 source:h:\programowanie\c\projekty\listing17.6-8prata\kolejka.c
+	<stdio.h>
+	<stdlib.h>
+	"kolejka.h"
+
+1450460869 h:\programowanie\c\projekty\listing17.6-8prata\kolejka.h
+	<stdbool.h>
+
+1450460979 source:h:\programowanie\c\projekty\listing17.6-8prata\main.c
+	<stdio.h>
+	<stdlib.h>
+	"kolejka.h"
+

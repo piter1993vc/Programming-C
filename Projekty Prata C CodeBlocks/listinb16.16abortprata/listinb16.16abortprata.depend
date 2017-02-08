@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1450033469 source:e:\programowanie\c\projekty\listinb16.16abortprata\main.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	<math.h>
+

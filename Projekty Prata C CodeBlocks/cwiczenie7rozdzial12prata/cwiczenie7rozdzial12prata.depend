@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1446557564 source:e:\programowanie\c\projekty\cwiczenie7rozdzial12prata\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

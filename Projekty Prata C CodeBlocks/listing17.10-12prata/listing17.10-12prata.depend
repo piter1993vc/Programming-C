@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1450639660 source:e:\programowanie\c\projekty\listing17.10-12prata\drzewo.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"drzewo.h"
+
+1450617608 e:\programowanie\c\projekty\listing17.10-12prata\drzewo.h
+	<stdbool.h>
+
+1450640446 source:e:\programowanie\c\projekty\listing17.10-12prata\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"DRZEWO.h"
+

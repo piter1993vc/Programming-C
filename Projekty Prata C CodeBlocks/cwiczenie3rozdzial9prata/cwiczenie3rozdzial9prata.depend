@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1442963937 source:e:\programowanie\c\projekty\cwiczenie3rozdzial9prata\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<ctype.h>
+

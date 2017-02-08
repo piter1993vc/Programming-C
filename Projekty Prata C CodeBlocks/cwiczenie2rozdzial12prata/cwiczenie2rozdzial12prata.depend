@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1446499154 source:e:\programowanie\c\projekty\cwiczenie2rozdzial12prata\funkcje.c
+	<stdio.h>
+	"funkcje.h"
+
+1446498982 e:\programowanie\c\projekty\cwiczenie2rozdzial12prata\funkcje.h
+
+1446498968 source:e:\programowanie\c\projekty\cwiczenie2rozdzial12prata\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funkcje.h"
+

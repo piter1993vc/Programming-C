@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1444164118 source:e:\programowanie\c\projekty\cwiczenie5rozdzial10prata\main.c
+	<stdio.h>
+	<stdlib.h>
+	<float.h>
+

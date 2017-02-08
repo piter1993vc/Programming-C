@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1450346273 source:h:\programowanie\c\projekty\listing17,3-5prata\funkcje.cpp
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1450347006 h:\programowanie\c\projekty\listing17,3-5prata\lista.h
+	<stdbool.h>
+
+1450346273 source:h:\programowanie\c\projekty\listing17,3-5prata\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1450347088 source:h:\programowanie\c\projekty\listing17,3-5prata\funkcje.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+

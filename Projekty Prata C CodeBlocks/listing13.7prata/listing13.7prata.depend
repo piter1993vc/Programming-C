@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1446920869 source:e:\programowanie\c\projekty\listing13.7prata\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

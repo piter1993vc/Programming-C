@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1441358838 source:e:\programowanie\c\projekty\bibliotekactype.hprata\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+

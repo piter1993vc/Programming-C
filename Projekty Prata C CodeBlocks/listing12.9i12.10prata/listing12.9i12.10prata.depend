@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1446474239 source:e:\programowanie\c\projekty\listing12.9i12.10prata\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1446474290 source:e:\programowanie\c\projekty\listing12.9i12.10prata\randisrand.c
+	<stdio.h>
+

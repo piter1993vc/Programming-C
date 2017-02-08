@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1446476555 source:e:\programowanie\c\projekty\listing12.11,12.12i12.13prata\funkcje.c
+	<stdio.h>
+	<stdlib.h>
+	"naglowek.h"
+
+1446477038 e:\programowanie\c\projekty\listing12.11,12.12i12.13prata\naglowek.h
+
+1446476185 source:e:\programowanie\c\projekty\listing12.11,12.12i12.13prata\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"naglowek.h"
+

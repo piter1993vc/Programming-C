@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1446473297 source:e:\programowanie\c\projekty\listing12.5i12.6prata\czescb.c
+	<stdio.h>
+
+1446476796 source:e:\programowanie\c\projekty\listing12.5i12.6prata\main.c
+	<stdio.h>
+	<stdlib.h>
+

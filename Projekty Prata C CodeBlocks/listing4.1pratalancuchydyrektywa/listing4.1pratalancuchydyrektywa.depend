@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1439462835 source:e:\programowanie\c\projekty\listing4.1pratalancuchydyrektywa\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

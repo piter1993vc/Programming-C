@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1442845551 source:e:\programowanie\c\projekty\listing9.9prata\hotel.c
+	<stdio.h>
+	<stdlib.h>
+	"hotel.h"
+
+1442845116 e:\programowanie\c\projekty\listing9.9prata\hotel.h
+
+1442845289 source:e:\programowanie\c\projekty\listing9.9prata\main.c
+	<stdio.h>
+	<stdlib.h>
+	"hotel.h"
+
